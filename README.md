@@ -9,3 +9,11 @@ This repo contains, (credits to [speedie](https://twitter.com/spdgmr))
 - Fixed root installer for some users
 - App now checks for Magisk and displays an error message if it's not detected
 - Various optimizations
+
+## Vanced APK (v17.03.38)
+- [com.google.android.youtube]()
+- [com.vanced.android.youtube]()
+
+## Vanced Music (v4.64.51)
+- [com.google.android.apps.youtube.music]()
+- [com.vanced.android.apps.youtube.music]()
