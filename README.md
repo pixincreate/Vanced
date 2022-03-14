@@ -23,7 +23,7 @@ NONE OF THESE CLIENTS ARE VERIFIED BY ME FOR SECURITY OR ANYTHING ELSE! USE AT Y
 
 These are the current alternatives (with links when possible):
  - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases) (which you should have either way for youtube-dl/yt-dlp integration)
-   - [NewPipe fork by polymorphicshade](https://github.com/polymorphicshade/NewPipe)
+   - [NewPipe fork by polymorphicshade](https://github.com/polymorphicshade/NewPipe) (includes sponsor block)
  - [LibreTube](https://github.com/libre-tube/LibreTube/releases) (still in early beta)
  - Firefox with uBlock Origin, enhancer for youtube, SponsorBlock and return youtube dislike -> install an addon compatible fork like [IceRaven](https://github.com/fork-maintainers/iceraven-browser), then install the addons from the adddon store
    - [Some alternatives that include Kiwi, uBlock, SponsorBlock and many more!](https://gist.github.com/SkyyySi/1b621c7c20ae7e0865a8ac428156c1cf?permalink_comment_id=4096512#gistcomment-4096512)
