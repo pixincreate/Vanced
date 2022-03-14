@@ -3,7 +3,7 @@
 This repo contains, (Thanks to [speedie](https://twitter.com/spdgmr) for archive.org and torrent links)
 - [GitHub Vanced Repository](https://archive.org/details/yt-vanced)
 - [API and Binaries](https://archive.org/details/vanced-api)
-- [API and Binaries Torrent](https://anonfiles.com/Bcf5aaObx1/Vanced_torrent) (The same is available in `torrent-files` folder)
+- [API and Binaries Torrent](https://anonfiles.com/Bcf5aaObx1/Vanced_torrent) (The same is available in `torrent-files` folder ([_here_](https://github.com/pixincreate/Vanced/tree/main/torrent-files)))
   
 ## Vanced Manager [v2.6.2](https://github.com/pixincreate/Vanced/releases/download/1.0/vanced-manager-v2.6.2.apk) Changelogs:
 - Fixed root installer for some users
