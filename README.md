@@ -11,12 +11,12 @@ This repo contains, (Thanks to [speedie](https://twitter.com/spdgmr) for archive
 - Various optimizations
 
 ## Vanced (v17.03.38)
-- [com.google.android.youtube](https://github.com/pixincreate/Vanced/releases/download/1.0/com.google.android.youtube-v17.03.38.apk)
-- [com.vanced.android.youtube](https://github.com/pixincreate/Vanced/releases/download/1.0/com.vanced.android.youtube-v17.03.38.apk)
+- [com.google.android.youtube](https://github.com/pixincreate/Vanced/releases/download/1.0/com.google.android.youtube-v17.03.38.apk) (**This version requirs root**)
+- [com.vanced.android.youtube](https://github.com/pixincreate/Vanced/releases/download/1.0/com.vanced.android.youtube-v17.03.38.apk) (**This version requirs MicroG to Login**)
 
 ## Vanced Music (v4.64.51)
-- [com.google.android.apps.youtube.music](https://github.com/pixincreate/Vanced/releases/download/1.0/com.google.android.apps.youtube.music-v4.64.51.apk)
-- [com.vanced.android.apps.youtube.music](https://github.com/pixincreate/Vanced/releases/download/1.0/com.vanced.android.apps.youtube.music-v4.64.51.apk)
+- [com.google.android.apps.youtube.music](https://github.com/pixincreate/Vanced/releases/download/1.0/com.google.android.apps.youtube.music-v4.64.51.apk) (**This version requirs root**)
+- [com.vanced.android.apps.youtube.music](https://github.com/pixincreate/Vanced/releases/download/1.0/com.vanced.android.apps.youtube.music-v4.64.51.apk) (**This version requirs MicroG to Login**)
 
 
 **DISCLAIMER:** 
