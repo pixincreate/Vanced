@@ -10,7 +10,7 @@ This repo contains, (Thanks to [speedie](https://twitter.com/spdgmr) for archive
 - App now checks for Magisk and displays an error message if it's not detected
 - Various optimizations
 
-## Vanced APK (v17.03.38)
+## Vanced (v17.03.38)
 - [com.google.android.youtube](https://github.com/pixincreate/Vanced/releases/download/1.0/com.google.android.youtube-v17.03.38.apk)
 - [com.vanced.android.youtube](https://github.com/pixincreate/Vanced/releases/download/1.0/com.vanced.android.youtube-v17.03.38.apk)
 
