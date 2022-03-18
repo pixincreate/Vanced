@@ -23,7 +23,8 @@ This repo contains, (Thanks to [speedie](https://twitter.com/spdgmr) for archive
 - [com.vanced.android.apps.youtube.music](https://github.com/pixincreate/Vanced/releases/download/1.0/com.vanced.android.apps.youtube.music-v4.64.51.apk) (**This version requirs MicroG to Login**)
 
 ## Vanced Alternatives
-(For more revision updates, check [_here_](https://gist.github.com/SkyyySi/1b621c7c20ae7e0865a8ac428156c1cf#file-youtube-vanced-alternatives-md). Credits to @[SkyyySi](https://github.com/SkyyySi) for Alternative list)
+For more revision updates, check [_here_](https://gist.github.com/SkyyySi/1b621c7c20ae7e0865a8ac428156c1cf#file-youtube-vanced-alternatives-md).  
+Credits to @[SkyyySi](https://github.com/SkyyySi) for Alternatives list as the same is reproduced here.
 #### NONE OF THESE CLIENTS ARE VERIFIED BY ME FOR SECURITY OR ANYTHING ELSE! USE AT YOUR OWN RISK!
 
 These are the current alternatives (with links when possible):
