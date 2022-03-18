@@ -19,7 +19,7 @@ You can also download the files from [_**here**_](https://archive.org/download/v
 - App now checks for Magisk and displays an error message if it's not detected
 - Various optimizations
 
-## Vanced (v17.03.38)
+## Vanced (v17.03.38) [UPDATED]
 - [com.google.android.youtube](https://github.com/pixincreate/Vanced/releases/download/1.0/YouTube_com.google.android.youtube_17.03.38.apks) (**This version requirs root**)
 - [com.vanced.android.youtube](https://github.com/pixincreate/Vanced/releases/download/1.0/com.vanced.android.youtube_17.03.38-1527248320_2arch_72lang_b5e983d50a4af4ba9cf9dbe09b368bad_apkmirror.com.apkm) (**This version requirs MicroG to Login**)
 
