@@ -5,14 +5,18 @@ This repo contains, (Thanks to [speedie](https://twitter.com/spdgmr) for archive
 - [API and Binaries](https://archive.org/details/vanced-api)
 - [API and Binaries Torrent](https://anonfiles.com/Bcf5aaObx1/Vanced_torrent) (The same is available in `torrent-files` folder ([_here_](https://github.com/pixincreate/Vanced/tree/main/torrent-files)))
   
+[Or, you can download any files from [_**here**_](https://archive.org/download/vanced-youtube/)]
+
 ## Vanced Manager [v2.6.2](https://github.com/pixincreate/Vanced/releases/download/1.0/vanced-manager-v2.6.2.apk) Changelogs:
 - Fixed root installer for some users
 - App now checks for Magisk and displays an error message if it's not detected
 - Various optimizations
 
 ## Vanced (v17.03.38)
-- [com.google.android.youtube](https://github.com/pixincreate/Vanced/releases/download/1.0/com.google.android.youtube-v17.03.38.apk) (**This version requirs root**)
-- [com.vanced.android.youtube](https://github.com/pixincreate/Vanced/releases/download/1.0/com.vanced.android.youtube-v17.03.38.apk) (**This version requirs MicroG to Login**)
+- [com.google.android.youtube](https://github.com/pixincreate/Vanced/releases/download/1.0/YouTube_com.google.android.youtube_17.03.38.apks) (**This version requirs root**)
+- [com.vanced.android.youtube](https://github.com/pixincreate/Vanced/releases/download/1.0/com.vanced.android.youtube_17.03.38-1527248320_2arch_72lang_b5e983d50a4af4ba9cf9dbe09b368bad_apkmirror.com.apkm) (**This version requirs MicroG to Login**)
+
+[**NOTE:** User should install _Split APK Installer_(popularly known as SAI) to install YouTube APKs]
 
 ## Vanced Music (v4.64.51)
 - [com.google.android.apps.youtube.music](https://github.com/pixincreate/Vanced/releases/download/1.0/com.google.android.apps.youtube.music-v4.64.51.apk) (**This version requirs root**)
@@ -37,15 +41,10 @@ These are the current alternatives (with links when possible):
  - [VueTube](https://github.com/Frontesque/VueTube), a very new client.
 
 If you want to save videos offline using scripting, you can use [yt-dlp](https://github.com/yt-dlp/yt-dlp) running in [Termux](https://github.com/termux/termux-app).
-
 Also, there's [xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify/releases) for... Spotify as a replacement for Vanced Music. I would advise you to not use this with a premium account though, since ad blockers are a TOS violation and can get your account suspended. That won't really matter in practice if you just use throw-away accounts though (I'm not a lawyer, so don't quote me on that)
-
 As for what I think are the best ones: Either NewPipe (has some nice features like support for other platforms like SoundCloud and a complete downloader) or the Web version with add-ons (which will give you the most complete experience, including login).
-
 Some things that may or may not work are most popular video players, but they won't allow discovery (except for possibly Kodi)
-
 Finally a pro-tip: If you want to download videos from any YT app, you can install NewPipe and share the link to the video to it from the share-menu. Then you can select to always download when sharing to NewPipe.
-
 If you want a copy on Discord or you know another App I should add, just DM me ðŸ‘Œ
 
 (OG copytext by @!SkyyySi#1859 )
@@ -53,5 +52,4 @@ If you want a copy on Discord or you know another App I should add, just DM me ð
   
   
 # DISCLAIMER:
-
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS ORIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHERLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS INTHE SOFTWARE.
