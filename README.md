@@ -1,10 +1,10 @@
 # Vanced (Sleep, brother)
-
+### Read [FAQs](https://github.com/pixincreate/Vanced/blob/main/FAQs.md) before taking any further step!
 Vanced will be remembered for their contribution to the world and the community.   
 Their **Official sources** to get their Apps are available no more unless **you build yourself** one. However, there exist **Vanced** apps everywhere on the internet by means **un-official sources** and _**this is one of them**_ and hence you cannot trust the source.
 
-**These are the SHA-256 hashes for all Vanced apks**. 
-Although it is not recommend downloading Vanced from unverifiable sources so use these to make sure that you don't end up with a tampered build.
+**These are the SHA-256 hashes for all Vanced apks**.   
+Although it is not recommend downloading Vanced from unverifiable sources so use these to **make sure that you don't end up with a tampered build**.  
 https://bit.ly/VancedHashes
 
 This repo contains, (Thanks to [speedie](https://twitter.com/spdgmr) for archive.org and torrent links)
@@ -12,7 +12,7 @@ This repo contains, (Thanks to [speedie](https://twitter.com/spdgmr) for archive
 - [API and Binaries](https://archive.org/details/vanced-api)
 - [API and Binaries Torrent](https://anonfiles.com/Bcf5aaObx1/Vanced_torrent) (The same is available in `torrent-files` folder ([_here_](https://github.com/pixincreate/Vanced/tree/main/torrent-files)))
   
-[Or, you can download any files from [_**here**_](https://archive.org/download/vanced-youtube/)]
+You can also download the files from [_**here**_](https://archive.org/download/vanced-youtube/)
 
 ## Vanced Manager [v2.6.2](https://github.com/pixincreate/Vanced/releases/download/1.0/vanced-manager-v2.6.2.apk) Changelogs:
 - Fixed root installer for some users
