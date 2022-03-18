@@ -22,12 +22,13 @@ This repo contains, (Thanks to [speedie](https://twitter.com/spdgmr) for archive
 - [com.google.android.apps.youtube.music](https://github.com/pixincreate/Vanced/releases/download/1.0/com.google.android.apps.youtube.music-v4.64.51.apk) (**This version requirs root**)
 - [com.vanced.android.apps.youtube.music](https://github.com/pixincreate/Vanced/releases/download/1.0/com.vanced.android.apps.youtube.music-v4.64.51.apk) (**This version requirs MicroG to Login**)
 
-## Vanced Alternatives (taken from [_here_](https://gist.github.com/SkyyySi/1b621c7c20ae7e0865a8ac428156c1cf#file-youtube-vanced-alternatives-md). Credits to @SkyyySi)
-## NONE OF THESE CLIENTS ARE VERIFIED BY ME FOR SECURITY OR ANYTHING ELSE! USE AT YOUR OWN RISK!
+## Vanced Alternatives
+(For more revision updates, check [_here_](https://gist.github.com/SkyyySi/1b621c7c20ae7e0865a8ac428156c1cf#file-youtube-vanced-alternatives-md). Credits to @[SkyyySi](https://github.com/SkyyySi) for Alternative list)
+#### NONE OF THESE CLIENTS ARE VERIFIED BY ME FOR SECURITY OR ANYTHING ELSE! USE AT YOUR OWN RISK!
 
 These are the current alternatives (with links when possible):
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe/releases) (which you should have either way for youtube-dl/yt-dlp integration)
-- [NewPipe fork by polymorphicshade](https://github.com/polymorphicshade/NewPipe), which includes SponsorBlock support.
+  - [NewPipe fork by polymorphicshade](https://github.com/polymorphicshade/NewPipe), which includes SponsorBlock support.
 - [LibreTube](https://github.com/libre-tube/LibreTube/releases) (still in early beta)
 - A web browser with [uBlock Origin](https://github.com/gorhill/uBlock) (or another ad-blocker; [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) has one build-in, but uBlock is universal and more powerfull, in addition to allowing to also remove non-advertisement parts of the website, like the top shelf with recommended tags / search querries), [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [SponsorBlock](https://github.com/ajayyy/SponsorBlock) and [Return YouTube Dislike](https://www.returnyoutubedislike.com/). These all work on both desktop Firefox and Chrome, but on mobile, you'll need to install an add-on compatible fork (source code alteration) of them, like [IceRaven](https://github.com/fork-maintainers/iceraven-browser) for Firefox or [KiwiBrowser](https://kiwibrowser.com/), then install the addons from their respective adddon store. Depending on the browser, you'll additionally need to install a user script for background playber. Alternatively, the [Brave](https://brave.com/) browser supports background playback OOTB (needs to be enabled; see coment by @dmdotin) and a build in ad-blocker, but no extension / add-on support.
 - YouTube Pink (I have no legit link yet)
