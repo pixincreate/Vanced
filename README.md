@@ -30,7 +30,7 @@ You can also download the files from [_**here**_](https://archive.org/download/v
 - [com.vanced.android.apps.youtube.music](https://github.com/pixincreate/Vanced/releases/download/1.0/com.vanced.android.apps.youtube.music-v4.64.51.apk) (**This version requirs MicroG to Login**)
 
 ## Vanced Alternatives
-To find alternatives for [Vanced](github.com/ytvanced), click [_**here**_](https://gist.github.com/SkyyySi/1b621c7c20ae7e0865a8ac428156c1cf#file-youtube-vanced-alternatives-md) (the gist is being updated actively.)
+To find alternatives for [Vanced](github.com/teamvanced), click [_**here**_](https://gist.github.com/SkyyySi/1b621c7c20ae7e0865a8ac428156c1cf#file-youtube-vanced-alternatives-md) (the gist is being updated actively.)
 
 # DISCLAIMER:
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS ORIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHERLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS INTHE SOFTWARE.
