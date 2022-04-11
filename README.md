@@ -32,8 +32,8 @@ You can also download the files from [_**here**_](https://archive.org/download/v
 - [com.vanced.android.apps.youtube.music](https://github.com/pixincreate/Vanced/releases/download/1.0/com.vanced.android.apps.youtube.music-v4.64.51.apk) (**This version requirs MicroG to Login**)
 - [com.vanced.android.apps.youtube.music](https://github.com/pixincreate/Vanced/releases/download/2.0/YT.Music.Vanced.Mod.4.64.51.apk) (**This Modified version requirs MicroG to Login and can be installed as a normal APK**)
 
-[**NOTE 1:** User should install _Split APK Installer_(popularly known as SAI) to install YouTube APKS]
-[**NOTE 2:** Modified versions mentioned above will have the official YouTube and YouTube Music Logos and can be installed as a normal APK. This Modified version is taken from WSTProjects which is now unavailable on Telegram for unknown reasons. The SHA-256 might not be verified as it is not Official Vanced team. So, **use it at your own risk**. Read [DISCLAIMER](https://github.com/pixincreate/Vanced#disclaimer) for more information.]
+[**NOTE 1:** User should install _Split APK Installer_(popularly known as SAI) to install YouTube APKS]        
+[**NOTE 2:** Modified versions mentioned above will have the official YouTube and YouTube Music Logos and can be installed as a normal APK. This Modified version is taken from WSTProjects which is now unavailable on Telegram for unknown reasons. The SHA-256 might not be verified as it is not Official Vanced team. So, **use it at your own risk**. Read [DISCLAIMER](https://github.com/pixincreate/Vanced#disclaimer) for more information.]       
 
 ## Vanced Alternatives
 To find alternatives for [Vanced](github.com/teamvanced), click [_**here**_](https://gist.github.com/SkyyySi/1b621c7c20ae7e0865a8ac428156c1cf#file-youtube-vanced-alternatives-md) (the gist is being updated actively.)
