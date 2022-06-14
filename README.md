@@ -1,7 +1,7 @@
 # Vanced (Sleep, brother)
 
 ## ReVanced - Phoenix from the ashes!
-Check it out [here](https://ReVanced.app)
+**Check** it out [_**here**_](https://ReVanced.app).
 
 ### Read [FAQs](https://github.com/pixincreate/Vanced/blob/main/FAQs.md) before taking any further step!
 Vanced will be remembered for their contribution to the world and the community.   
