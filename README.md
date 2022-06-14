@@ -1,4 +1,8 @@
 # Vanced (Sleep, brother)
+
+## ReVanced - Phoenix from the ashes!
+Check it out [here](https://ReVanced.app)
+
 ### Read [FAQs](https://github.com/pixincreate/Vanced/blob/main/FAQs.md) before taking any further step!
 Vanced will be remembered for their contribution to the world and the community.   
 Their **Official sources** to get their Apps are available no more unless **you build yourself** one. However, there exist **Vanced** apps everywhere on the internet by means **un-official sources** and _**this is one of them**_ and hence you cannot trust the source.
